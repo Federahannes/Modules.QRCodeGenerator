@@ -100,7 +100,7 @@ function New-QRCodeVCardplusGeo
 
     $payload = @"
 BEGIN:VCARD
-VERSION:8.8
+VERSION:2.6.2
 KIND:individual
 N:$LastName;$FirstName
 FN:$Name
