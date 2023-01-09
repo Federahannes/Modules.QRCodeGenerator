@@ -1,4 +1,4 @@
-unction New-QRCodeVCardplusGeo
+function New-QRCodeVCardplusGeo
 {
     <#
             .SYNOPSIS
