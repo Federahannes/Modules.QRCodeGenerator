@@ -1,5 +1,4 @@
-clear-host
-function New-QRCodeVCardGeo
+unction New-QRCodeVCardplusGeo
 {
     <#
             .SYNOPSIS
@@ -14,6 +13,10 @@ function New-QRCodeVCardGeo
             Phone number
             .PARAMETER Email
             eMail address
+            .PARAMETER Latitude
+            The location latitude
+            .PARAMETER Longitude
+            The location longitude
             .PARAMETER Width
             Height and Width of generated graphics (in pixels). Default is 100.
             .PARAMETER Show
